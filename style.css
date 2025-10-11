@@ -1,3 +1,32 @@
 body{
     font-family: sans-serif;
 }
+#Courses{
+  font-style: italic;
+ justify-content:space-between;
+   border-style: ridge;
+ display: flex;
+ border-radius:1%;
+ background-image:;
+ background-size:cover;
+}
+#courses img{
+    width:auto;
+    margin-top: 10%;
+    padding: auto;
+    border-radius: 20%;
+}
+.one{
+    text-align: center;
+    text-decoration: underline;
+    color: coral;
+}
+
+#courses  img,h3{
+    color: blue;
+    text-align: center;
+}
+#courses img,p{
+   text-align: center;
+   color: green;
+}
