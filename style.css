@@ -1,5 +1,29 @@
 body{
     font-family: sans-serif;
+
+    text-align: center;
+    /*background-image: linear-gradient(rgba(31, 85, 109, 0.24),rgba(66, 116, 105, 0.685),rgba(84, 97, 97, 0.678)); */
+}
+#Home{
+    background-image: linear-gradient(rgba(31, 85, 109, 0.24),rgba(66, 116, 105, 0.685),rgba(84, 97, 97, 0.678)), url("https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg");
+    height: 110vh;
+    background-size: cover;
+    border-radius: 24% 25% 24%;
+}
+#Home h1{
+    padding-top: 10%;
+
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#footer{
+    margin-top: 2%;
+    text-align: center;
+    padding: 5%;
+    color: #fff;
+}
+
 } 
 #Courses{
   font-style: italic;
