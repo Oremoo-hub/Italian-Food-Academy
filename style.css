@@ -1,5 +1,6 @@
 body{
     font-family: sans-serif;
+
     text-align: center;
     /*background-image: linear-gradient(rgba(31, 85, 109, 0.24),rgba(66, 116, 105, 0.685),rgba(84, 97, 97, 0.678)); */
 }
@@ -21,4 +22,45 @@ h4{
     text-align: center;
     padding: 5%;
     color: #fff;
+}
+
+} 
+#Courses{
+  font-style: italic;
+ justify-content:space-between;
+   border-style: ridge;
+ display: flex;
+ border-radius:1%;
+ background-image:;
+ background-size:cover;
+}
+#courses img{
+    width:auto;
+    margin-top: 10%;
+    padding: auto;
+    border-radius: 20%;
+}
+.one{
+    text-align: center;
+    text-decoration: underline;
+    color: coral;
+}
+
+#courses  img,h3{
+    color: blue;
+    text-align: center;
+}
+#courses img,p{
+   text-align: center;
+   color: green;
+}
+
+ul{
+    display: flex;
+    background-color: rgb(0, 255, 221);
+    padding: 25px;
+    justify-content: space-around;
+    margin: px;
+    border-radius: 5rcap;
+
 }
