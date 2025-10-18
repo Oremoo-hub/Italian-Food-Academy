@@ -1,3 +1,40 @@
 body{
-    font-family: sans-serif;
+    font-family: sans-serif
+}
+#tesimonials-img img{
+width: auto;
+    margin-top: 10%;
+    padding:auto ;
+    border: radius 5px; 
+    
+}
+#testimoniols{
+    display: flex;
+    font-style: italic;
+    justify-content: space-between;
+    border-style: ridge;
+    display: flex;
+    background-size: 0dvh;
+}
+.one{
+    text-align: center;
+    text-decoration: underline;
+
+}
+.testimonials-img img{
+    width: 20vw;
+    height: 200px;
+    border-radius: 25%;
+}
+#Testimonials p{
+    text-align:justify ;
+    padding: 3%;
+    width: 20vw;
+}
+#Testimonials {
+    display: flex;
+    padding: auto;
+}
+.testi{
+    display: flex;
 }
