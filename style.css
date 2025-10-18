@@ -1,6 +1,21 @@
 body{
+    font-family: sans-serif
+}
+#tesimonials-img img{
+    width: auto;
+    margin-top: 10%;
+    padding:auto ;
+    border: radius 5px; 
+    
+}
+#testimoniols{
+    display: flex;
+    font-style: italic;
+    justify-content: space-between;
+    border-style: ridge;
+    display: flex;
+    background-size: 0dvh;
     font-family: sans-serif;
-
     text-align: center;
     /*background-image: linear-gradient(rgba(31, 85, 109, 0.24),rgba(66, 116, 105, 0.685),rgba(84, 97, 97, 0.678)); */
 }
@@ -43,7 +58,24 @@ h4{
 .one{
     text-align: center;
     text-decoration: underline;
-    color: coral;
+
+}
+.testimonials-img img{
+    width: 20vw;
+    height: 200px;
+    border-radius: 25%;
+}
+#Testimonials p{
+    text-align:justify ;
+    padding: 3%;
+    width: 20vw;
+}
+#Testimonials {
+    display: flex;
+    padding: auto;
+}
+.testi{
+    display: flex;
 }
 
 #courses  img,h3{
@@ -80,4 +112,5 @@ ul{
 p{
     color: aqua;
 }
+
 
